@@ -70,7 +70,9 @@ END
 |  2006                   |   00                     |
 
 #### Manual Calculations
-<img width="1489" height="1080" alt="image" src="https://github.com/user-attachments/assets/a031cea6-32ef-4353-ad90-43eaef82c316" />
+
+<img width="1565" height="1041" alt="image" src="https://github.com/user-attachments/assets/4714b62b-084a-45b2-af2c-20ececd54f18" />
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/user-attachments/assets/2f69010e-4486-49f0-bdfd-8f4a97d7583d" />
@@ -129,7 +131,9 @@ END
 |  2005                   |   44                     |
 |  2006                   |   34                     |
 #### Manual Calculations
-<img width="1573" height="1079" alt="image" src="https://github.com/user-attachments/assets/a8ea44f2-7ae5-4e4a-877c-18b70d75d299" />
+
+<img width="1388" height="746" alt="image" src="https://github.com/user-attachments/assets/713230a4-b9aa-4dd2-ae7c-3641a1813287" />
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -186,8 +190,8 @@ END
 |  2005                   |   5A                     |
 |  2006                   |   4B                     |
 #### Manual Calculations
-<img width="1600" height="1318" alt="image" src="https://github.com/user-attachments/assets/1bfa5bff-ac6b-4b6d-ba20-8612df301283" />
 
+<img width="1499" height="1054" alt="image" src="https://github.com/user-attachments/assets/615d4926-8300-450b-bd38-c89d36441db6" />
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="641" height="420" alt="Screenshot 2025-09-19 140347" src="https://github.com/user-attachments/assets/4eca69da-9b9c-4aca-9201-2e87602133d6" />
@@ -241,7 +245,9 @@ END
 |  2006                   |   02                     |
 
 #### Manual Calculations
-<img width="1439" height="1080" alt="image" src="https://github.com/user-attachments/assets/0387231b-b8c1-4f81-b43b-a59f0bdd38bd" />
+
+<img width="1466" height="863" alt="image" src="https://github.com/user-attachments/assets/b24ddefb-6743-4f91-a5cf-50869438bd02" />
+
 
 ## OUTPUT FROM MASM SOFTWARE
 <img width="640" height="438" alt="Screenshot 2025-09-20 090533" src="https://github.com/user-attachments/assets/63b8a557-cd78-46c3-b992-2b72cdbb4e93" />
